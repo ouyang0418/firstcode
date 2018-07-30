@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("Hello China!");
 		System.out.println("Hello ouyang!");
 		System.out.println("Hello leilei!");
+		System.out.println("Hello java!");
 	}
 
 }
