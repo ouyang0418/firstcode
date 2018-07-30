@@ -10,6 +10,7 @@ public class Hello {
 		System.out.println("Hello java!");
 		System.out.println("Hello OOP!");
 		System.out.println("Hello IoStream!");
+		System.out.println("Hello PPT!");
 	}
 
 }
