@@ -11,6 +11,7 @@ public class Hello {
 		System.out.println("Hello OOP!");
 		System.out.println("Hello IoStream!");
 		System.out.println("Hello PPT!");
+		System.out.println("Hello Word!");
 	}
 
 }
